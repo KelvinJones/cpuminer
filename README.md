@@ -187,3 +187,8 @@ tests/
 - AVX2 4/8-lane engine for CPUs without SHA-NI
 - GBT longpolling so template refreshes are push-driven instead of timed
 
+## License
+
+MIT — see [LICENSE](LICENSE). The vendored cJSON parser in `src/` is also
+MIT-licensed (see its source headers).
+
