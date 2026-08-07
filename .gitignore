@@ -1,0 +1,8 @@
+# Build artifacts
+build/
+*.o
+*.d
+
+# Binaries
+cpuminer
+run_tests
